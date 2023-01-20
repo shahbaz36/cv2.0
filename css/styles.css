@@ -1,0 +1,107 @@
+.top-container{
+    background-color: #eaf6f6;    
+    position: relative;
+    padding-top: 100px;
+}
+
+
+.middle-container{
+    background-color: #F9F2ED;
+    
+}
+.contact-me{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.para{
+    padding-bottom: 30px;
+}
+.bottom-container{
+    background-color: #66bfbf;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 0px;
+}
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+.bottom-cloud{
+    position:absolute;
+    bottom: 300px;
+    left: 300px;
+}
+h1{
+    margin-top: 0px ;
+    font-size: 80px;
+    color: #005555;
+    font-family: 'Sacramento',cursive;
+    
+}
+h2{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 2.5rem;
+    color:#005555;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Montserrat',sans-serif;
+    color:#005555
+}
+body{
+    margin: 0px;
+    text-align: center;        /* making eveything (image ,text etc) centered inside the body */
+    font-family: 'Merriweather',serif;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.profile{
+    border-top-width: 20px;
+}
+.photo{
+    padding-top: 50px;
+    width: 12%;
+    margin: auto;
+}
+.cpp{
+    padding-right: 30px;
+    float: left;
+    width: 25%;
+}
+.Basketball{
+    padding-right: 30px;
+    width: 25%;
+    float: right;
+}
+
+.btn {
+    background:  #11cdd4;
+    background-image: -webkit-linear-gradient(top,  #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top,  #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top,  #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top,  #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom,  #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb,  #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb,  #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb,  #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb,  #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb,  #2bc4ad);
+    text-decoration: none;
+  }
